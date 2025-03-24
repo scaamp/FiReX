@@ -1,6 +1,6 @@
 # FIREX – Aplikacja do analizy planu budżetowego MON 🇵🇱 / Budget Analysis App for the Ministry of Defense 🇬🇧
 
-> 🔥 **FIREX = Finance. Reports. Execution.** 
+> 🔥 **FiReX = Finance. Reports. Execution.** 
 ---
 
 ## 🇵🇱 Polski opis
