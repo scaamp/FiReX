@@ -13,6 +13,7 @@
 - Core Data Services (CDS)
 - Analytical Table (sap.ui.table.AnalyticalTable)
 - VizFrame (sap.viz.ui5.controls.VizFrame)
+- MicroChart (sap.suite.ui.microchart)
   
 ### 🔍 Kluczowe funkcje:
 - Implementacja w SAPUI5 (freestyle)
@@ -38,6 +39,7 @@
 - Core Data Services (CDS)
 - Analytical Table (`sap.ui.table.AnalyticalTable`)
 - VizFrame (`sap.viz.ui5.controls.VizFrame`)
+- MicroChart (`sap.suite.ui.microchart`)
 
 ### 🔍 Key Features:
 - Built using SAPUI5 (freestyle)
