@@ -11,9 +11,9 @@
 - SAPUI5 (freestyle)
 - OData v2 (z SAP backend – poza repozytorium)
 - Core Data Services (CDS)
-- Analytical Table (sap.ui.table.AnalyticalTable)
-- VizFrame (sap.viz.ui5.controls.VizFrame)
-- MicroChart (sap.suite.ui.microchart)
+- Analytical Table (`sap.ui.table.AnalyticalTable`)
+- VizFrame (`sap.viz.ui5.controls.VizFrame`)
+- MicroChart (`sap.suite.ui.microchart`)
   
 ### 🔍 Kluczowe funkcje:
 - Implementacja w SAPUI5 (freestyle)
