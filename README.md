@@ -53,6 +53,6 @@
 - **Comparative analysis** – allows comparison of two periods and **drill-down** into specific data entries
 ---
 
-> 🛡️ Projekt przeznaczony wyłącznie do celów edukacyjnych i demonstracyjnych.  
+> 🛡️ Projekt przeznaczony wyłącznie do celów demonstracyjnych.  
 > This project is intended for educational and demonstration purposes only.
 
