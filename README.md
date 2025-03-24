@@ -54,5 +54,5 @@
 ---
 
 > 🛡️ Projekt przeznaczony wyłącznie do celów demonstracyjnych.  
-> This project is intended for educational and demonstration purposes only.
+> This project is intended for demonstration purposes only.
 
