@@ -55,6 +55,23 @@
 - **Comparative analysis** – allows comparison of two periods and **drill-down** into specific data entries
 ---
 
+## 📸 Zrzuty ekranu / Screenshots
+
+Poniżej kilka widoków aplikacji.  
+Below are a few application views.
+
+### 🏠 Strona główna / Homepage
+
+![Homepage](screenshots/main.png)
+
+### 🔍 Możliwości analityczne / Analytics operations
+
+![Search](screenshots/operations.png)
+
+### 📊 Wizualizacje danych / Data Visualizations
+
+![Charts](assets/screenshots/charts.png)
+
 > 🛡️ Projekt przeznaczony wyłącznie do celów demonstracyjnych.  
 > This project is intended for demonstration purposes only.
 
