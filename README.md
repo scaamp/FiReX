@@ -72,6 +72,10 @@ Below are a few application views.
 
 ![Charts](screenshots/chart.gif)
 
+### 📊 Wizualizacje danych / Data Visualizations (Donut Chart)
+
+![Charts](screenshots/donut.png)
+
 ### 🔍 Analiza porównawcza / Comparative analysis
 
 ![Search](screenshots/analytics.png)
