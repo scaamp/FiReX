@@ -84,6 +84,10 @@ Below are a few application views.
 
 ![Search](screenshots/analytics_details.png)
 
+### 🔍 Analiza porównawcza (wykres) / Comparative analysis (chart)
+
+![Search](screenshots/comparative_chart.png)
+
 > 🛡️ Projekt przeznaczony wyłącznie do celów demonstracyjnych.  
 > This project is intended for demonstration purposes only.
 
