@@ -70,7 +70,7 @@ Below are a few application views.
 
 ### 📊 Wizualizacje danych / Data Visualizations
 
-![Charts](screenshots/charts.png)
+![Charts](screenshots/chart.gif)
 
 > 🛡️ Projekt przeznaczony wyłącznie do celów demonstracyjnych.  
 > This project is intended for demonstration purposes only.
