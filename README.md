@@ -1,6 +1,6 @@
 # FiReX – Aplikacja do analizy planu budżetowego MON 🇵🇱 / Budget Analysis App for the Ministry of Defense 🇬🇧
 
-> 🔥 **FiReX = Finance. Reports. Execution.** 
+> 🔥 **FiReX = Finance. Reporting. Execution.** 
 ---
 
 ## 🇵🇱 Polski opis
@@ -70,7 +70,7 @@ Below are a few application views.
 
 ### 📊 Wizualizacje danych / Data Visualizations
 
-![Charts](assets/screenshots/charts.png)
+![Charts](screenshots/charts.png)
 
 > 🛡️ Projekt przeznaczony wyłącznie do celów demonstracyjnych.  
 > This project is intended for demonstration purposes only.
