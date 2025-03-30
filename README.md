@@ -88,6 +88,6 @@ Below are a few application views.
 
 ![Search](screenshots/comparative_chart.png)
 
-> 🛡️ Projekt przeznaczony wyłącznie do celów demonstracyjnych.  
-> This project is intended for demonstration purposes only.
+> 🛡️ Projekt przeznaczony wyłącznie do celów demonstracyjnych. Przedstawione dane nie są rzeczywiste.  
+> This project is intended for demonstration purposes only. The data presented isn't real.
 
