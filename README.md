@@ -1,11 +1,11 @@
-# FiReX – Aplikacja do analizy planu budżetowego MON 🇵🇱 / Budget Analysis App for the Ministry of Defense 🇬🇧
+# FiReX – Aplikacja do analizy planu budżetowego 🇵🇱 / Budget Analysis App 🇬🇧
 
 > 🔥 **FiReX = Finance. Reporting. Execution.** 
 ---
 
 ## 🇵🇱 Polski opis
 
-**FiReX** to aplikacja SAPUI5 (freestyle), zaprojektowana do analizy planu budżetowego dla Ministerstwa Obrony Narodowej.
+**FiReX** to aplikacja SAPUI5 (freestyle), zaprojektowana do analizy planu budżetowego.
 
 ### 🧰 Technologie:
 - SAPUI5 (freestyle)
